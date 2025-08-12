@@ -1,4 +1,4 @@
-/* Reset & 基础样式 */
+
 * {
   margin: 0;
   padding: 0;
@@ -12,7 +12,7 @@ body {
   color: #333;
 }
 
-/* 顶部导航栏 */
+
 header {
   background-color: #004080;
   color: white;
@@ -43,7 +43,7 @@ header {
   text-decoration: underline;
 }
 
-/* 主体内容 */
+
 .hero {
   padding: 4rem 2rem;
   text-align: center;
@@ -61,7 +61,7 @@ header {
   font-size: 1.1rem;
 }
 
-/* 页脚 */
+
 footer {
   text-align: center;
   padding: 1rem;
